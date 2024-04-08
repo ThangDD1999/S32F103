@@ -36,10 +36,6 @@ int main(void)
 
   haivl
 
-
-
-
-
   do duc thang
 
 
