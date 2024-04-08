@@ -32,8 +32,6 @@ int main(void)
 
   Thang 1999
 
-
-
   haivl
 
   do duc thang
