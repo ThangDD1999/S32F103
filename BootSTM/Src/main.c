@@ -41,4 +41,7 @@ int main(void)
 
 
   do duc thang
+
+
+  123456
 }
