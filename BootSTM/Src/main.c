@@ -28,14 +28,4 @@ int main(void)
 	for(;;);
 
   while(1);
-
-
-  Thang 1999
-
-  haivl
-
-  do duc thang
-
-
-  123456
 }
